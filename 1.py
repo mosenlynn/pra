@@ -11,5 +11,6 @@ for j in dic.value:
 res=max(r)
 num=a.count(res)   
 print('{} {}'.format(res,num))
+#111
 
 
